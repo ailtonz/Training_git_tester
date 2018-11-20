@@ -1,0 +1,37 @@
+INICIO
+-----------
+git init
+
+
+STATUS
+-----------
+git status
+
+
+STATUS
+-----------
+git commit -am "..."
+
+
+ADD REMOTO - ( ligar ao repositorio remoto )
+-----------
+git remote add git@github.com:ailtonz/_REPOSITORIO_.git
+
+
+ID REPOSITORIO
+-----------
+git remote 
+
+
+ID REPOSITORIO - ( Mais informações )
+-----------
+git remote -v
+
+
+UPDATE REMOTO - ( enviar de local p/ remoto )
+-----------
+[1] git push -u origin master
+
+[2] git push 
+
+
